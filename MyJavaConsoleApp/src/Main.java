@@ -1,6 +1,3 @@
-# First Java Program
-##Program :
-```java
 public class Main
 {
 	public static void main(String[] args)
@@ -8,6 +5,3 @@ public class Main
 		System.out.println("Hello World !");
 	}
 }
-```
-##Output :
->Hello World !
